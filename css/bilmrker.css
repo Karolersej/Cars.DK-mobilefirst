@@ -263,7 +263,7 @@ img{
   
   .contact{
     margin: 200px auto;
-    width: 90%;
+    width: 80%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.596),rgba(0,0,0,0.7)),url(../images/kontakt.jpg);
     background-position: center;
     background-size: cover;
@@ -271,7 +271,9 @@ img{
     text-align: center;
     padding: 100px 0;
     margin-bottom: -250px;
-    max-width: 1310px;
+    max-width: 1165px;
+  
+
     
   }
   
@@ -530,7 +532,7 @@ padding-top: 10%;
         border: 1px solid rgb(0, 0, 0);
         flex-grow: 1;
          flex-shrink: 0;
-         background-image: linear-gradient(to right, #111111 0%, #848585 100%);
+         background-image: rgba(31, 30, 30, 0.13)
     
     }
     
@@ -539,7 +541,7 @@ padding-top: 10%;
         border: 1px solid rgb(0, 0, 0);
         flex-grow: 1;
          flex-shrink: 0;
-         background-image: linear-gradient(to right, #848585 0%, #111111 100%);
+         background-image: rgba(31, 30, 30, 0.13)
     
     }
    
@@ -572,13 +574,14 @@ padding-top: 10%;
   
   .contact{
     margin: 100px auto;
-    width: 90%;
+    width: 98%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.596),rgba(0,0,0,0.7)),url(../images/header2.JPG);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
     text-align: center;
     padding: 100px 0;
+  
     
   }
   
